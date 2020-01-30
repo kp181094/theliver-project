@@ -1,0 +1,18 @@
+@import '~antd/dist/antd.css';
+
+.App {
+  text-align: center;
+}
+.image{
+  height: 80px;
+  width: 80px;
+  margin-left: 80px;
+  border-radius: 20%;
+}
+.order-page{
+  height: 800px;
+  width: 800px;
+  justify-content: center;
+}
+
+
